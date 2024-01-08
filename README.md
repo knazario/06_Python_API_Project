@@ -2,6 +2,12 @@
 
 This project involved 2 separate processes using weather data (from Open Weather API). In the first notebook (WeatherPy), we pulled data from over 500 random ciites in order to look for correlations between latitude and several variables (wind speed, humidity, temperature) and created a dataframe with that data that we exported to a csv file for additional use. In VacationPy, we used the saved dataset from WeatherPy in order to plot the cities on a map, filter our dataset into a subset based on several criteria and used GeoApify in order to find the nearest hotel to each city in that subset. Our final product includes a map of our vacation-criteria cities with the name of the hotel displayed on the map when you hover over the city. 
 
+Additional Notes
+- 
+For the first map in VacationPy, I opted to not use a Legend since it wasn't going to display all 500+ cities and the city name would display upon hover. 
+
+During my final updates, I switched to using VS Code. When running Jupyter Lab, I was not able to get the hover features to display (not even the defualt hover items). Hover_cols and defaults all display correctly using VScode. 
+
 Code Source 
 - 
 
