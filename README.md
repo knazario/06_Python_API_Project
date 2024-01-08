@@ -6,8 +6,6 @@ Additional Notes
 - 
 For the first map in VacationPy, I opted to not use a Legend since it wasn't going to display all 500+ cities and the city name would display upon hover. 
 
-During my final updates, I switched to using VS Code. When running Jupyter Lab, I was not able to get the hover features to display (not even the defualt hover items). Hover_cols and defaults all display correctly using VScode. 
-
 Code Source 
 - 
 
